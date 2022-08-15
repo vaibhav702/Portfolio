@@ -29,7 +29,7 @@ $(document).ready(function(){
         location.href = "https://github.com/vaibhav702/project-urlShortnerGroup46/tree/project/urlShortnerGroupX";
     };
     document.getElementById("lindlinbutton").onclick=function(){
-        location.href="https://github.com/vaibhav702";
+        location.href="http://www.linkedin.com/in/vaibhav-bansode-42243217b";
     }
    
    
